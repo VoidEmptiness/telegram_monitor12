@@ -1,0 +1,22 @@
+# Игнорировать файлы окружения и конфигурации
+.env
+*.session
+*.session-journal
+
+# Игнорировать файлы состояния
+last_messages.json
+last_run.json
+sent_messages.json
+
+# Игнорировать Python кеш
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Игнорировать логи
+*.log
+
+# Игнорировать виртуальное окружение Python
+venv/
+env/
+ENV/
