@@ -1,6 +1,6 @@
 # Telegram Channel Monitor
 
-Бот для мониторинга объявлений о продаже ПК в Telegram-каналах. Автоматически проверяет указанные каналы каждые 5 минут и пересылает найденные объявления в указанную группу.
+Бот для мониторинга объявлений о продаже ПК(Я его для этого использую) в Telegram-каналах. Автоматически проверяет указанные каналы каждые 5 минут и пересылает найденные объявления в указанную группу.
 
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
