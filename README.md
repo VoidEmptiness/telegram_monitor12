@@ -27,8 +27,8 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/telegram-pc-monitor.git
-   cd telegram-pc-monitor
+   git clone https://github.com/yourusername/telegram_monitor12.git
+   cd telegram_monitor12
    ```
 
 2. Создайте виртуальное окружение и активируйте его:
